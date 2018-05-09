@@ -1,0 +1,15 @@
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\bin\Debug\FilesFilter.exe.config
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\bin\Debug\FilesFilter.exe
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\bin\Debug\FilesFilter.pdb
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter.csprojResolveAssemblyReference.cache
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\MainWindow.g.cs
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\App.g.cs
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter_MarkupCompile.cache
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter_MarkupCompile.lref
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\MainWindow.baml
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter.g.resources
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter.Properties.Resources.resources
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter.csproj.GenerateResource.Cache
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter.csproj.CoreCompileInputs.cache
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter.exe
+C:\Users\sprajapati\Desktop\MyOwnProjects\FilesFilter\FilesFilter\obj\Debug\FilesFilter.pdb
